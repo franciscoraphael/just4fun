@@ -10,3 +10,5 @@ Enjoying random [XKCD comics](https://xkcd.com) while practicing promises.
 - avoid using w3scholl style, use bootstrap instead
 - make the 'alt' work
 - remove donut image from code
+- create a way to mark a comic as favorite (cookie?)
+- create a search for comic (use the metadata and maybe the img2text from Firebase+GoogleCloudVision) 
